@@ -15,12 +15,30 @@
                 console.log(data);
                 data.forEach(product => {
 const cart = document.querySelectorAll('.product');
+
+let selectedProduct;
 cart.forEach(carta => {
+
   carta.addEventListener('click', () => {
   console.log(carta.getAttribute("value"));
   window.localStorage.setItem("jabon",carta.getAttribute("value"));
-  carta.classList.add("cardo-2");
+  if (selectedProduct) {
+    selectedProduct.classList.remove("cardo-2");
+  }
+ // Si se hace clic en el mismo producto, deseleccionar
+ if (selectedProduct === carta) {
+     selectedProduct = null;
+     window.localStorage.removeItem("jabon");
+     
+ } else {
 
+     selectedProduct = carta;
+     carta.classList.add("cardo-2");
+
+     const value = carta.getAttribute("value");
+     window.localStorage.setItem("jabon", value);
+    
+ }
     
 })
 })
@@ -30,7 +48,23 @@ cartgel.forEach(carta => {
   console.log(carta.getAttribute("value"));
   window.localStorage.setItem("gel",carta.getAttribute("value"));
   carta.classList.add("cardo-2");
+if (selectedProduct) {
+    selectedProduct.classList.remove("cardo-2");
+  }
+ // Si se hace clic en el mismo producto, deseleccionar
+ if (selectedProduct === carta) {
+     selectedProduct = null;
+     window.localStorage.removeItem("gel");
+     
+ } else {
 
+     selectedProduct = carta;
+     carta.classList.add("cardo-2");
+
+     const value = carta.getAttribute("value");
+     window.localStorage.setItem("gel", value);
+    
+ }
     
 })
 })
@@ -40,7 +74,23 @@ cartprot.forEach(carta => {
   console.log(carta.getAttribute("value"));
   window.localStorage.setItem("proteccion",carta.getAttribute("value"));
   carta.classList.add("cardo-2");
+if (selectedProduct) {
+    selectedProduct.classList.remove("cardo-2");
+  }
+ // Si se hace clic en el mismo producto, deseleccionar
+ if (selectedProduct === carta) {
+     selectedProduct = null;
+     window.localStorage.removeItem("proteccion");
+     
+ } else {
 
+     selectedProduct = carta;
+     carta.classList.add("cardo-2");
+
+     const value = carta.getAttribute("value");
+     window.localStorage.setItem("proteccion", value);
+    
+ }
     
 })
 })

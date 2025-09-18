@@ -579,6 +579,12 @@ input:focus{
     background-color: #fff;
     gap: 30px;
   }
+  .pasos{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: start;
+  }
 
 @media (min-width:996px) {
 
@@ -713,6 +719,21 @@ input:focus{
   #name, #edad{
     margin-left: 20px;
   }
+
+#herorutin .contain{
+
+  background-color: #fff;
+
+}
+.pasos{
+  display: grid;
+  gap: 25px;
+  align-items: center;
+  grid-template-columns: 1fr 1fr;
+  justify-content: center;
+  flex-direction: row;
+}
+
 
 }
 
