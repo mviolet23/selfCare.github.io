@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inicio</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="buttons.scss">
+
+   <link rel="stylesheet" href="./css/bootstrap.css">
+    <script src="./bootstrap-5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+    <link href="https://fonts.cdnfonts.com/css/sinera?styles=185939" rel="stylesheet">
+</head>
+<body>
+ <nav class="navbar navbar-expand-lg navbar-light bg-self px-4">
+      <div class="container-fluid d-flex align-items-center w-100">
+
+        <!-- Brand (fuera del collapse, siempre visible) -->
+        <div class=" container-fluid d-flex navbar-block align-items-center w-100 justify-content-start">
+          <a class="navbar-brand" href="#" style="font-family: 'Sinera', sans-serif;font-size: 2.4em;">SELFCARE</a>
+        </div>
+
+        <!-- Collapse: solo links + botón -->
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent"
+          aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse navbar-block justify-content-center" id="navbarContent">
+          <!-- Links centrados -->
+          <ul class="navbar-nav justify-content-center mb-2 mb-lg-0 gap-4" id="links">
+          
+            <!-- <li class="nav-item">
+              <a class="nav-link active" href="./prods.html">Inicio</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Servicios</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Acerca</a>
+            </li> -->
+          </ul>
+          <!-- <div class="navbar-block btn-container" id="btaso">
+            <a href="#contacto" class="btn btn-primary">Contáctanos</a>
+          </div> -->
+        </div>
+
+        <!-- Botón Contáctanos -->
+      </div>
+    </nav>
+
+<section id="formulario">
+    <div class="contai" style="padding: 50px 100px 50px 100px;">
+      <form action="">
+        <h1>Encuesta</h1>
+        <div id="normas">
+
+        
+        <div class="q1" style="display: flex; flex-direction: column;">
+                <label for="q1" style="font-size: 1.2em;">1. ¿Cuál es tu nombre?</label>
+                  <input type="text" id="name">
+            </div>
+            <div class="q1" style="display: flex; flex-direction: column;">
+                <label for="q1" style="font-size: 1.2em;">2. ¿Cuál es tu genero?</label>
+                <div id="gendero" >
+                  <input type="radio" class="btn-check" name="gen" id="option2" autocomplete="off" value="Hombre">
+                  <label class="btn btn-outline-self" for="option2" style="padding: 8px;">Hombre</label>
+                  <input type="radio" class="btn-check" name="gen" id="option4" autocomplete="off" value="Mujer">
+                  <label class="btn btn-outline-self" for="option4" style="padding: 8px;">Mujer</label>
+                </div>
+            </div>
+            <div class="q1" style="display: flex; flex-direction: column;">
+              
+                <label for="q1" style="font-size: 1.2em;">3. ¿Cuál es tu edad?</label>
+                <div style="display: flex; flex-direction: column; justify-content: space-around;">
+                  <input type="number" id="edad">
+                  <span class="hide" id="min-edad">Debes tener entre 18 a 26 para poder completar la encuesta</span>
+                </div>
+            </div>
+            </div>
+            <div class="q1" id="p4" >
+              <div>
+                <label for="q1" style="font-size: 1.2em;">4. ¿Qué tipo de piel crees que tienes?</label>
+              </div>
+                <div id="cardotes" >
+
+                
+                <div id="cardo" value = "grasa">
+                  <div id="titlecard" style="background-color: #FCCEE8;">
+                    <h2>Piel Grasa</h2>
+                  </div>
+                  <div class="texton">
+                  <img src="./imgs/Piel grasa.webp" alt="" width="120">
+                    <p>Produce brillo, suele tener poros visibles y tendencia a granitos.</p>
+                  </div>
+                </div>
+                
+                <div id="cardo" value = "seca">
+                  <div id="titlecard" style="background-color: #FCCEE8;">
+                    <h2>Piel Seca</h2>
+                  </div>
+                  <div class="texton">
+                  <img src="./imgs/Pielseca.jpg" alt="" width="120">
+                    <p>Se siente tirante, opaca o con descamación.</p>
+                  </div>
+                </div>
+                
+                <div id="cardo" value = "normal">
+                  <div id="titlecard" style="background-color: #FCCEE8;">
+                    <h2>Piel Normal a Mixta</h2>
+                  </div>
+                  <div class="texton">
+                  <img src="./imgs/Pielnormalamixta.webp" alt="" width="120">
+                    <p>Zonas grasas (como frente o nariz) y otras secas (como mejillas).</p>
+                  </div>
+                </div>
+                
+                <div id="cardo" value="piel sensible">
+                  <div id="titlecard" style="background-color: #FCCEE8;">
+                    <h2>Piel Sensible</h2>
+                  </div>
+                  <div class="texton">
+                  <img src="./imgs/pielsensible.jpg" alt="" width="120">
+                    <p>Se enrojece o irrita fácilmente con productos o cambios de clima.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="q1" id="p5" style="display: flex; flex-direction: column; gap: 25px;">
+              
+                <label for="q1" style="font-size: 1.2em;">5. ¿Tienes alguna preocupación principal sobre tu piel?</label>
+                <div id="cardotesd">
+                 <div id="cardot" style="align-items: center;" value="acne">
+                  <div id="titlecard" style="background-color: #FCCEE8;">
+                    <h2>Acné o brotes / Manchas o tono desigual</h2>
+                  </div>
+                  <div class="texton">
+                  <img src="./imgs/AcnebroteManchas.webp" alt="" width="120" height="120">
+                  </div>
+                </div>
+                 <div id="cardot" style="align-items: center;" value="nada">
+                  <div id="titlecard" style="background-color: #FCCEE8;">
+                    <h2>Ninguna en particular</h2>
+                  </div>
+                  <div class="texton">
+                  <img src="./imgs/ninguna.webp" alt="" width="100"   >
+                  </div>
+                 </div>
+                </div>
+            </div>
+
+<!-- #C8EFE7 - Verde menta
+#FCCEE8 - Rosa
+#E9D4FF - Morado -->
+
+
+            <!-- <div class="q1">
+                <label for="question1">Pregunta 1</label>
+                <label for="">
+                    <input type="radio" name="tipo" id="tipo" value="Ejemplo1"> Ejemplo1
+                    <input type="radio" name="tipo" id="tipo" value="Ejemplo2"> Ejemplo2
+                </label>
+                <button>Conocer mi tipo de piel</button>
+            </div>
+            <div class="q1">
+                <label for="question1">Pregunta 1</label>
+                <select name="question1" id="">
+                    <option value=""></option>
+                    <option value="">Lorem ipsum dolor sit amet.</option>
+                    <option value="">Lorem ipsum dolor sit amet.</option>
+                    <option value="">Lorem ipsum dolor sit amet.</option>
+                </select>
+                <button onclick="data()">Conocer mi tipo de piel</button>
+            </div> -->
+
+            <button type="submit" id="btnsubmit" class="btn btn-primary">Completar</button>
+        
+        </form>
+    </div>
+</section>
+
+<script src="index.js"></script>
+</body>
+</html>

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="buttons.scss">
+    <script src="./prods.js"></script>
+   <link rel="stylesheet" href="./css/bootstrap.css">
+   <link href="https://fonts.cdnfonts.com/css/sinera?styles=185939" rel="stylesheet">
+    <script src="./bootstrap-5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
+    
+</head>
+<body>
+     <nav class="navbar navbar-expand-lg navbar-light bg-self px-4">
+      <div class="container-fluid d-flex align-items-center w-100">
+
+        <div class=" container-fluid d-flex navbar-block align-items-center w-100 justify-content-start">
+          <a class="navbar-brand" href="./index.html" style="font-family: 'Sinera', sans-serif; font-size: 2.4em;">SELFCARE</a>
+        </div>
+
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent"
+          aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse navbar-block justify-content-center" id="navbarContent">
+      
+          <ul class="navbar-nav justify-content-center mb-2 mb-lg-0 gap-4" id="links">
+            <!-- <li class="nav-item">
+              <a class="nav-link active" href="#">Inicio</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Servicios</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Acerca</a>
+            </li> -->
+          </ul>
+          <!-- <div class="navbar-block btn-container" id="btaso">
+            <a href="#contacto" class="btn btn-primary">Contáctanos</a>
+          </div> -->
+        </div>
+
+      </div>
+    </nav>
+    
+
+    <div id="hero">
+        <div class="contain">
+            <div id="text">
+                <h1 id="title" style="font-family: Poppins, sans-serif; font-size: 2em;"></h1>
+            </div>
+        </div>
+    </div>
+
+    <div id="productas">
+        <div class="contain">
+            <div id="titlelo">
+                <h1 style="margin-top: 20px;">Jabones</h1>
+                <div id="cards"></div>
+                <a style="margin: 15px;" href="#products-gel" class="btn btn-outline-self">Siguiente</a>
+            </div>
+        </div>
+    </div>
+    <div id="products-gel">
+        <div class="contain">
+            <div id="titlelo">
+                <h1 style="margin-top: 20px;">Gels o Cremas Hidratantes</h1>
+                <div href="#products-solares" id="cards-gel"></div>
+                <a style="margin: 15px;" href="#products-solares" class="btn btn-outline-self">Siguiente</a>
+            </div>
+        </div>
+    </div>
+    <div id="products-solares">
+        <div class="contain">
+            <div id="titlelo">
+                <h1 style="margin-top: 20px;">Protectores Solares</h1>
+                <div id="cards-solares"></div>
+                <button onclick="crearRutina()" style="margin: 15px;" class="btn btn-outline-self">Crear Rutina</button>
+            </div>
+        </div>
+    </div>
+
+
+</body>
+</html>
