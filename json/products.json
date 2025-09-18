@@ -1,0 +1,587 @@
+[{
+    "nombre":"Neutrogena Oil-Free Acne Wash",
+    "descripcion":"Contiene Ácido Salicílico y extracto de Toronja con Vitamina C, limpiando tu piel a profundidad, ayuda a eliminar y prevenir la formación de granitos y espinillas. Inicia su uso una vez por semana y aumenta gradualmente para acostumbrar la piel.",
+    "precio": 167,
+    "img":"https://m.media-amazon.com/images/I/518Hhw1yeQL.jpg",
+    "for":"grasa con acne",
+    "cat":"JABONES FACIALES"
+},
+{
+    "nombre":"DARROW Gel Limpiador Facial, Actine Vitamina C",
+    "descripcion":"Combina ingredientes clave como el ácido salicílico al 2%, Vitamina C y P-Refinyl™, que ayudan a mejorar visiblemente la textura de la piel, limpiando las impurezas y reduciendo los brotes. Desde la primera aplicación notarás una sensación de frescura, gracias al lactato de mentila, mientras que el uso continuo contribuye a una piel con apariencia más uniforme y luminosa. Ideal para incorporar a tu rutina diaria, tanto por la mañana como por la noche. ",
+    "precio": 193,
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS43_3IuPUfjg_LVuGCo0btOupTuN1Uyy5PNQ&s",
+    "for":"grasa con acne",
+    "cat":"JABONES FACIALES"
+},
+{
+    "nombre":"NIVEA Derma Skin Clear Gel Limpiador Anti-imperfecciones",
+    "descripcion":"Limpia profundamente la piel, ayudando a reducir eficazmente los poros dilatados, disminuye las imperfecciones y puntos negros, logrando una mejora visible en la textura de la piel. Gracias a su fórmula concentrada con Ácido Salicílico, Sal Marina y Niacinamida, logra una piel más uniforme, suave y libre de imperfecciones en tan solo 7 días de uso continuo.",
+    "precio": 97,
+    "img":"https://m.media-amazon.com/images/I/61DJgH9Z6sL.jpg",
+    "for":"grasa con acne",
+    "cat":"JABONES FACIALES"
+},
+{
+    "nombre":"PONDS Limpiador Facial Vs. Manchas Vitamina C",
+    "descripcion":"Su fórmula sin parabenos** ni alcohol* y enriquecida con jugo de limón y vitamina C, que es ideal para el cuidado de la piel ya que contiene antioxidantes, previene el envejecimiento prematuro y ayuda a la producción de colágeno, protegiendo y nutriendo tu piel mientras remueve suavemente impurezas y agentes contaminantes para dejarla limpia, hidratada y más luminosa.",
+    "precio": 102,
+    "img":"https://m.media-amazon.com/images/I/51Iv6crPKPL._UF1000,1000_QL80_.jpg",
+    "for":"grasa con acne",
+    "cat":"JABONES FACIALES"
+},
+{
+    "nombre":"Garnier Express Aclara Gel limpiador Anti-imperfecciones ",
+    "descripcion":"Concentrado con (Vitamina C + Ácido Salicílico para tratar imperfecciones y manchas por imperfecciones. Para una piel con tendencia al acné, dermatológicamente probado.",
+    "precio": 110,
+    "img":"https://m.media-amazon.com/images/I/51mydVtYpIL.jpg",
+    "for":"grasa con acne",
+    "cat":"JABONES FACIALES"
+},
+{
+     "nombre":"Garnier Express Aclara Crema Hidratante Matificante Anti-imperfecciones.",
+    "descripcion":"Esta gama es para cualquier persona con piel con tendencia al acné y aquellos que buscan reducir la aparición de imperfecciones y manchas oscuras.",
+    "precio": 91,
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbaFZbwTq1dJJyA4eEl_4NkqRqIc_YJwJvFQ&s",
+    "for":"grasa con acne",
+    "cat":"GEL HIDRATANTE"
+},
+{
+     "nombre":"ISDIN Teen Skin Acniben Gel Crema.",
+    "descripcion":"Controla brillos y ayuda a reducir los granitos. Proporciona humedad diaria específica y equilibrio a la piel grasa.",
+    "precio": 424,
+    "img":"https://www.costco.com.mx/medias/sys_master/products/h9d/h14/133377941176350.jpg",
+    "for":"grasa con acne",
+    "cat":"GEL HIDRATANTE"
+},
+{
+     "nombre":"Cerave Gel Facial tratamiento Anti-imperfecciones.",
+    "descripcion":"Proporciona un tratamiento ligero e hidratante para todo el rostro que elimina las manchas y ayuda a prevenir nuevos brotes, a la vez que minimiza el aspecto de los poros sin resecar la piel. Formulado con 3 ceramidas esenciales para ayudar a mantener la barrera natural de la piel y con niacinamida para ayudar a calmar la piel. Esta fórmula con una poderosa mezcla de AHA y BHA no contiene aceite ni alcohol secante, dejando la piel con un aspecto más radiante, suave y notablemente más claro después de 3 días.",
+    "precio": 254,
+    "img":"https://m.media-amazon.com/images/I/51MY81SQqCL.jpg",
+    "for":"grasa con acne",
+    "cat":"GEL HIDRATANTE"
+},
+{
+
+     "nombre":"Gel Hidratante Facial Pond's Vs. Manchas Vitamina C.",
+    "descripcion":"Ayuda a tu piel a tener un tono más uniforme y a reducir la apariencia de las manchas en la cara, que penetra 5 capas de la piel depositando en ellas su fórmula enriquecida con extracto de limón y vitamina C, que es ideal para el cuidado de la piel ya que contiene antioxidantes, previene el envejecimiento prematuro y ayuda a la producción de colágeno, protegiendo y nutriendo tu piel para mejorar su tono y dejarla fresca, no grasosa y radiante.",
+    "precio": 124,
+    "img":"https://m.media-amazon.com/images/I/61GJB5eC1uL._UF1000,1000_QL80_.jpg",
+    "for":"grasa con acne",
+    "cat":"GEL HIDRATANTE"
+
+},
+{
+
+     "nombre":"Pond's Cuidado Facial Fruity Hydra Fresh Sandía.",
+    "descripcion":"Contiene extracto de sandía de origen natural. Su fórmula limpiadora e hidratante en gel remueve suavemente las impurezas y los agentes contaminantes. La sandía es conocida por tener compuestos que son buenos para la piel como agua, vitaminas, antioxidantes, minerales y aminoácidos para que tu piel luzca limpia y suave.",
+    "precio": 124,
+    "img":"https://m.media-amazon.com/images/I/51707tUhlHL._UF1000,1000_QL80_.jpg",
+    "cat":"JABONES FACIALES",
+    "for":"grasa con nada"
+
+},
+{
+
+     "nombre":"Eucerin DermoPure Gel Limpiador Facial.",
+    "descripcion":"Con soluciones dermatológicas especialmente hecha para pieles con imperfecciones. Este gel limpiador retira el exceso de sebo e impurezas de tu rostro dejando tu piel limpia, fresca y matificada.",
+    "precio": 315,
+    "img":"https://m.media-amazon.com/images/I/61KvxtUawUL._UF1000,1000_QL80_.jpg",
+    "cat":"JABONES FACIALES",
+    "for":"grasa con nada"
+
+},
+{
+
+     "nombre":"La Roche-Posay Effaclar Gel.",
+    "descripcion":"Gel de limpieza que purifica la piel a profundidad, elimina impurezas y ayuda a combatir el exceso de grasa dejando la piel limpia y fresca; ideal para pieles grasas y sensibles. Gel limpiador purificante. Ayuda a eliminar las impurezas y el exceso de sebo y a la vez deja la piel limpia y fresca. Producto de una gran calidad.",
+    "precio": 368,
+    "img":"https://www.laroche-posay.com.mx/-/media/project/loreal/brand-sites/lrp/america/latam/products/effaclar/effaclar-cleansing-foaming-gel/la-roche-posay-productpage-acne-effaclar-cleansing-foaming-gel-400ml-3337872411991-zoom1-front.png",
+    "cat":"JABONES FACIALES",
+    "for":"grasa con nada"
+
+},
+{
+
+     "nombre":"CETAPHIL Limpiador Facial para Piel Grasa.",
+    "descripcion":"Ideal para pieles grasas por su Fórmula en gel de baja espuma, ideal para piel mixta a grasa y sensible. Limpia profundamente sin dejar sensación de tirantez. ",
+    "precio": 321,
+    "img":"https://m.media-amazon.com/images/I/71YLqYHFrzL.jpg",
+    "cat":"JABONES FACIALES",
+    "for":"grasa con nada"
+
+},
+{
+    "nombre":"Avene Cleanance, Gel Limpiador para Piel Grasa.",
+    "descripcion":"Brindar cuidado y equilibrio a las pieles grasas con tendencia a imperfecciones, destacado por su fórmula libre de jabón, ofrece un PH fisiológico que garantiza una limpieza suave y tolerante sin comprometer el delicado equilibrio de la piel. Además, su delicada fórmula no resecará tu cutis, dejándolo suave, fresco y revitalizado después de cada uso.",
+    "precio": 309,
+    "img":"https://m.media-amazon.com/images/I/71ZWG5gPe-L._UF1000,1000_QL80_.jpg",
+    "cat":"JABONES FACIALES",
+    "for":"grasa con nada"
+},
+{
+    "nombre":"Nivea Gel Facial Hyaluron Refrescante Hidratante.",
+    "descripcion":"Brindar cuidado y equilibrio a las pieles grasas con tendencia a imperfecciones, destacado por su fórmula libre de jabón, ofrece un PH fisiológico que garantiza una limpieza suave y tolerante sin comprometer el delicado equilibrio de la piel. Además, su delicada fórmula no resecará tu cutis, dejándolo suave, fresco y revitalizado después de cada uso.",
+    "precio": 130,
+    "img":"https://m.media-amazon.com/images/I/71b+V4KzxvL.jpg",
+    "for":"grasa con nada",
+    "cat":"GEL HIDRATANTE"
+},
+{
+    "nombre":"Niveo SOFT.",
+    "descripcion":"Esta crema igual es esencial para que la incluyas dentro de tu rutina porque por su textura ligera, rápida absorción y capacidad para dejar la piel suave sin sensación grasosa.",
+    "precio": 113,
+    "img":"https://m.media-amazon.com/images/I/61UP6RvA9wL.jpg",
+    "for":"grasa con nada",
+    "cat":"GEL HIDRATANTE"
+},
+{
+    "nombre":"NIVEA 5 En 1 Efecto Mate.",
+    "descripcion":"Una crema facial hidratante de textura ligera, diseñada especialmente para piel mixta a grasa. Ofrece cinco beneficios en un solo producto y está formulada para ofrecer un acabado mate que dura todo el día, sin sensación grasosa.",
+    "precio": 167,
+    "img":"https://i5.walmartimages.com.mx/gr/images/product-images/img_large/00000004006709L.jpg",
+    "for":"grasa con nada",
+    "cat":"GEL HIDRATANTE"
+},
+{
+    "nombre":"EUCERIN Oil Control.",
+    "descripcion":"Protector solar facial FPS 50+ de Eucerin efecto matificante y control de brillo. Alta protección solar facial, adecuado para piel mixta a grasa. Protege de los daños ocasionados por el sol, ayuda a prevenir el fotoenvejecimiento. Textura ultra ligera, toque seco, efecto mate durante 8 horas. Fórmula con Licochalcona-A y L- Carnitina.",
+    "precio": 297,
+    "img":"https://m.media-amazon.com/images/I/61Kd5InhOYL.jpg",
+    "cat":"PROTECTORES SOLARES",
+    "for":"grasa"
+},
+{
+    "nombre":"NIVEA SUN Protector Solar Facial Control De Brillo.",
+    "descripcion":"El nuevo queda perfecto para agregarla a tu rutina, ya que contiene un efecto matificante de larga duración ayuda a absorber el exceso de grasa en la superficie de la piel para evitar el brillo, manteniendo el equilibrio de hidratación natural de la piel.",
+    "precio": 178,
+    "img":"https://m.media-amazon.com/images/I/61m7iDHQH9L._UF1000,1000_QL80_.jpg",
+    "cat":"PROTECTORES SOLARES",
+    "for":"grasa"
+},
+{
+    "nombre":"ISDIN Fotoprotector Fusion Water Magic ",
+    "descripcion":"Formula de fase acuosa muy hidratante y de absorción inmediata que garantiza alta protección frente a la radiación UV para disfrutar del sol durante las actividades al aire libre.",
+    "precio": 389,
+    "img":"https://m.media-amazon.com/images/I/51lFIeZfCtL.jpg",
+    "cat":"PROTECTORES SOLARES",
+    "for":"grasa"
+},
+{
+    "nombre":"Pond's UV Miracle Oil Control.",
+    "descripcion":"Matifica al instante. Reparación y control de brillo. Para todo tipo de piel. Uso diario. Sensación ligera. Sin residuos blancos. Alta protección FPS.",
+    "precio": 159,
+    "img":"https://m.media-amazon.com/images/I/61Qnl5KImxL._UF1000,1000_QL80_.jpg",
+    "cat":"PROTECTORES SOLARES",
+    "for":"grasa"
+},
+{
+    "nombre":"CeraVe Limpiadora Hidratante",
+    "descripcion":"Limpiador facial diario para piel seca, libre de fragancia. Masajear la limpiadora sobre la piel húmeda. Enjuagar. Apta para adultos y niños.",
+    "precio": 299,
+    "img":"https://m.media-amazon.com/images/I/51GSQ4ygj0L.jpg",
+    "cat":"JABONES FACIALES",
+    "for":"seca con acne"
+},
+{
+    "nombre":"Cetaphil Espuma de Limpieza Suave",
+    "descripcion":"La espuma de limpieza facial es ideal para el cuidado suave del rostro ya que además de limpiar, hidrata y mantiene una piel suave.",
+    "precio": 269,
+    "img":"https://m.media-amazon.com/images/I/619w9a2Ul3L._UF1000,1000_QL80_.jpg",
+    "cat":"JABONES FACIALES",
+    "for":"seca con acne"
+},
+{
+    "nombre":"Mario Badescu Limpiador",
+    "descripcion":"Jabón facial exfoliante y espumoso con AHA que limpia profundamente y refina el tono y la textura desiguales de la piel. El limpiador glicólico es un limpiador facial iluminador que es lo suficientemente suave como para usarse de 1 a 3 veces por semana y aborda la opacidad de la piel y los poros obstruidos.",
+    "precio": 179,
+    "img":"https://m.media-amazon.com/images/I/61a9G+1e9KL._UF1000,1000_QL80_.jpg",
+    "cat":"JABONES FACIALES",
+    "for":"seca con acne"
+},
+{
+    "nombre":"NIVEA Crema Facial Hidratante 5 En 1 Cuidado Nutritivo",
+    "descripcion":"Su innovadora fórmula contiene Hidro nutrientes que al entrar en contacto con la piel del rostro se funden llegando hasta la capa más profunda proporcionando una hidratación intensiva, sin dejar residuos grasosos en la superficie.",
+    "precio": 50,
+    "img":"https://m.media-amazon.com/images/I/71C6yykSYsL.jpg",
+    "cat":"CREMA HIDRATANTE",
+    "for":"seca con acne"
+},
+{
+    "nombre":"Cetaphil Hidratante Facial Diario",
+    "descripcion":"Mantiene tu rostro hidratado, cuenta con una foto protección contra diversos rayos y un FPS 50.",
+    "precio": 285,
+    "img":"https://m.media-amazon.com/images/I/51veKj2XdfL._UF1000,1000_QL80_.jpg",
+    "cat":"CREMA HIDRATANTE",
+    "for":"seca con acne"
+},
+{
+    "nombre":"La Roche-Posay Bálsamo Multireparador La Roche Posay Cicaplast",
+    "descripcion":"Acelera la reparación epidérmica, con agentes antibacterianos, relipidizantes e hidratantes.",
+    "precio": 270,
+    "img":"https://m.media-amazon.com/images/I/51vRpJ+megL._UF350,350_QL80_.jpg",
+    "cat":"CREMA HIDRATANTE",
+    "for":"seca con acne"
+},
+{
+    "nombre":"La Roche-Posay Jabón en Barra La Roche Posay Lipikar Surgras",
+    "descripcion":"Jabón enriquecido con lípidos, previene la sequedad. Umbra Dima, Set of 3, Trio Mirrors Apartment Decor, Wall Art, Matte Brass. Producto de alta calidad.",
+    "precio": 195,
+    "img":"https://m.media-amazon.com/images/I/51I-z+kUDaL.jpg",
+    "for":"seca con nada",
+    "cat":"JABONES FACIALES"
+},
+{
+    "nombre":"Mario Badescu Limpiador.",
+    "descripcion":"Jabón facial exfoliante y espumoso con AHA que limpia profundamente y refina el tono y la textura desiguales de la piel. El limpiador glicólico es un limpiador facial iluminador que es lo suficientemente suave como para usarse de 1 a 3 veces por semana y aborda la opacidad de la piel y los poros obstruidos.",
+    "precio": 179,
+    "img":"https://m.media-amazon.com/images/I/61a9G+1e9KL._UF1000,1000_QL80_.jpg",
+    "for":"seca con nada",
+    "cat":"JABONES FACIALES"
+},
+{
+    "nombre":"CeraVe Limpiadora Hidratante.",
+    "descripcion":"Limpiador facial diario para piel seca, libre de fragancia. Masajear la limpiadora sobre la piel húmeda. Enjuagar. Apta para adultos y niños.",
+    "precio": 299,
+    "img":"https://m.media-amazon.com/images/I/51GSQ4ygj0L.jpg",
+    "for":"seca con nada",
+    "cat":"JABONES FACIALES"
+},
+{
+    "nombre":"Jabón facial Natura Faces.",
+    "descripcion":"Un golpe de frescura y limpieza en segundos. Remueve el maquillaje común y retira impurezas, limpieza profunda sin resecar, sensación de piel fresca, para todos los tipos de piel. ¡Ideal para tu rutina diaria, úsalo día y noche!",
+    "precio": 200,
+    "img":"https://production.na01.natura.com/on/demandware.static/-/Sites-nat-mex-b2b2c-catalog/default/dwa3d62940/produtos/NATMEX-90175_1.jpg",
+    "for":"normal con nada",
+    "cat":"JABONES FACIALES"
+},
+{
+    "nombre":"La Roche-Posay Bálsamo Multireparador La Roche Posay Cicaplast.",
+    "descripcion":"Acelera la reparación epidérmica, con agentes antibacterianos, relipidizantes e hidratantes.",
+    "precio": 270,
+    "img":"https://m.media-amazon.com/images/I/51vRpJ+megL._UF350,350_QL80_.jpg",
+    "cat":"CREMA HIDRATANTE",
+    "for":"seca con nada"
+},
+{
+    "nombre":"CETAPHIL Crema Hidratante 48 horas.",
+    "descripcion":"Crema humectante clínicamente probada para proporcionar una hidratación intensa y duradera hasta hasta por 48 horas desde la 1era aplicación.",
+    "precio": 144,
+    "img":"https://m.media-amazon.com/images/I/71QzgUZBWFL._UF1000,1000_QL80_.jpg",
+    "cat":"CREMA HIDRATANTE",
+    "for":"seca con nada"
+},
+{
+    "nombre":"Cetaphil Hidratante Facial Diario FPS 50.",
+    "descripcion":"Mantiene tu rostro hidratado, cuenta con una foto protección contra diversos rayos y un FPS 50.",
+    "precio": 285,
+    "img":"https://m.media-amazon.com/images/I/51veKj2XdfL._UF1000,1000_QL80_.jpg",
+    "cat":"CREMA HIDRATANTE",
+    "for":"seca con nada"
+},
+{
+    "nombre":"Bioderma Photoderm Crema FPS 50+.",
+    "descripcion":"Protector solar con alto poder de hidratación y textura ligera Acabado invisible. Con SUN ACTIVE DEFENSE: Alta tecnología en protección solar reforzada contra los rayos UVA. Una combinación de filtros y una protección biológica patentada para estimular las defensas naturales de la piel.",
+    "precio": 424,
+    "img":"https://m.media-amazon.com/images/I/61WXaLN2eQL._UF1000,1000_QL80_.jpg",
+    "cat":"PROTECTORES SOLARES",
+    "for":"seca"
+},
+{
+    "nombre":"Cetaphil Sun FPS 50+ loción liposomal.",
+    "descripcion":"Fórmula hidratante con acción antioxidante gracias a que contiene Vitamina E y Aloe Vera. Su fórmula Liposomal permite la distribución homogénea de los filtros UV. Hidratación las 24 horas.",
+    "precio": 356,
+    "img":"https://m.media-amazon.com/images/I/61O-Z7QTVjL._UF1000,1000_QL80_.jpg",
+    "cat":"PROTECTORES SOLARES",
+    "for":"seca"
+},
+{
+    "nombre":"Avene Bloqueador FPS50+ Crema Antiedad.",
+    "descripcion":"Previene del fotoenvejecimiento de las pieles secas y sensibles. Su textura ayuda a hidratar la piel y dejarla suave y flexible. Con Agua Termal de Avène que es calmante y antiirritante.",
+    "precio": 479,
+    "img":"https://www.dermaexpress.com.mx/cdn/shop/products/3282770072655_Avene_Bloqueador_solar_anti-edad_FPS_50_50ML.jpg?v=1569255155",
+    "cat":"PROTECTORES SOLARES",
+    "for":"seca"
+},
+{
+    "nombre":"Cantabria Labs Heliocare 360º Pigment Solution Fluid.",
+    "descripcion":"Acción antioxidante e hidratante.Sus sistemas antipolución y despigmentante ayudan a prevenir y corregir las hiperpigmentaciones y manchas solares, con pigmentos nude para unificar el tono de la piel. Resistente al agua y al sudor.",
+    "precio": 449,
+    "img":"https://cantabrialabs.mx/wp-content/uploads/cantabria-labs-heliocare-360-pigment-solution-fluid-spf-50-1-1.jpg",
+    "cat":"PROTECTORES SOLARES",
+    "for":"seca"
+},
+{
+    "nombre":"Isdin Fotoultra Isdin 50+ Age Repair Fusion Water.",
+    "descripcion":"Protege de los rayos solares y repara la piel dañada. Revierte signos visibles de la edad hidratando intensamente. Con Ácido Hialurónico. No arde en los ojos.",
+    "precio": 469,
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpBF2iZejGwOXEfyjrUJjnyydBCF6A1NEJrQ&s",
+    "cat":"PROTECTORES SOLARES",
+    "for":"seca"
+},
+{
+    "nombre":"Neutrogena Gel Limpiador Facial Deep Clean Intensive Toronja Ácido Salicílico.",
+    "descripcion":"Ayuda a eliminar granitos, espinillas y puntos negros para dejar la piel limpia y con una sensación refrescante. Formulado con el activo beta-hidróxido y el extracto natural de toronja, limpia profundamente los poros, eliminando el 99 % de las impurezas y los aceites de la piel, dejándola ultra limpia y fresca todos los días.",
+    "precio": 74,
+    "img":"https://m.media-amazon.com/images/I/41+FqibJgxL._UF1000,1000_QL80_.jpg",
+  "for":"normal con acne",
+    "cat":"JABONES FACIALES"
+},
+{
+    "nombre": "NIVEA Gel Limpiador Facial y Purificante Efecto Mate",
+    "descripcion": "Formulado con algas marinas y agua purificada, proporciona el mejor cuidado para tu piel. Esta fórmula especial limpia profundamente la piel mientras respeta su equilibrio de humedad. Además, el gel exfoliante no contiene microplásticos y ayuda a reducir el exceso de sebo, evitando así el brillo no deseado gracias a su fórmula purificante.",
+    "precio": 109,
+    "img": "https://m.media-amazon.com/images/I/61dsFI4bUvL.jpg",
+  "for":"normal con acne",
+    "cat":"JABONES FACIALES"
+},
+{
+    "nombre": "CeraVe Gel Limpiador Espumoso Diario para Piel Mixta, Grasa o con Acné",
+    "descripcion": "El gel limpiador facial elimina el exceso de sebo restaurando la barrera protectora de la piel. Limpia profundamente y refresca la piel, mientras remueve el exceso de grasa y maquillaje, ayudando a restaurar la barrera natural de la piel.",
+    "precio": 289,
+    "img": "https://m.media-amazon.com/images/I/61e0rA2A4kL._UF1000,1000_QL80_.jpg",
+    "for":"normal con acne",
+    "cat":"JABONES FACIALES"
+},
+{
+  "nombre": "Cetaphil Hidratante Facial Diario",
+  "descripcion": "Mantiene tu rostro hidratado, cuenta con una foto protección contra diversos rayos y un FPS 50.",
+  "precio": 285,
+  "img": "https://m.media-amazon.com/images/I/51veKj2XdfL._UF1000,1000_QL80_.jpg",
+  "for":"normal con acne",
+  "cat":"CREMA HIDRATANTE"
+},
+{
+  "nombre": "Eucerin Gel hidratante ácido hialurónico Hyaluron Filler Moisture",
+  "descripcion": "Perfecto para mantener tu piel hidratada durante 24 horas. Su textura es ligera sin ser pegajosa y es perfecto gracias a su fórmula con ácido hialurónico. Hidratación intensa. Perfecto para todo tipo de piel.",
+  "precio": 440,
+  "img": "https://m.media-amazon.com/images/I/51Tyb-UVjtL._UF1000,1000_QL80_.jpg",
+  "for":"normal con acne",
+  "cat":"CREMA HIDRATANTE"
+},
+{
+  "nombre": "Garnier Express Aclara Crema Hidratante Matificante Anti-imperfecciones",
+  "descripcion": "Esta gama es para cualquier persona con piel con tendencia al acné y aquellos que buscan reducir la aparición de imperfecciones y manchas oscuras.",
+  "precio": 91,
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbaFZbwTq1dJJyA4eEl_4NkqRqIc_YJwJvFQ&s",
+  "for":"normal con acne",
+  "cat":"CREMA HIDRATANTE"
+},
+{
+  "nombre": "Neutrogena Hydroboost HYDRATING CLEANING GEL",
+  "descripcion": "Limpiador en gel que limpia suave y profundamente, eliminando eficazmente la suciedad, la grasa y el maquillaje sin dejar la piel seca o tirante, mientras aumenta la hidratación, respetando la barrera de hidratación de la piel. Deja la piel con una sensación refrescante, limpia y suave.",
+  "precio": 217,
+  "img": "https://m.media-amazon.com/images/I/51B-rKQj0eL.jpg",
+  "for":"normal con nada",
+  "cat":"JABONES FACIALES"
+},
+{
+  "nombre": "POND'S Limpiador Facial Hydra Active con Ácido Hialurónico",
+  "descripcion": "Fórmula ligera de rápida absorción, intensifica la hidratación en la piel, mejora la elasticidad y es para uso diario.",
+  "precio": 134,
+  "img": "https://m.media-amazon.com/images/I/51PhWoDN0hL._UF1000,1000_QL80_.jpg",
+  "for":"normal con nada",
+  "cat":"JABONES FACIALES"
+},
+{
+  "nombre": "Jabón facial Natura Faces",
+  "descripcion": "Un golpe de frescura y limpieza en segundos. Remueve el maquillaje común y retira impurezas, limpieza profunda sin resecar, sensación de piel fresca, para todos los tipos de piel. ¡Ideal para tu rutina diaria, úsalo día y noche!",
+  "precio": 200,
+  "img": "https://production.na01.natura.com/on/demandware.static/-/Sites-nat-mex-b2b2c-catalog/default/dwa3d62940/produtos/NATMEX-90175_1.jpg",
+  "for":"normal con nada"
+},
+{
+  "nombre": "NEUTROGENA Hydro Boost Water",
+  "descripcion": "Aqua-Gel hidratante que hidrata profundamente, renovando y restableciendo los niveles de hidratación por 48 hrs y fortaleciendo la barrera de la piel. Controla la oleosidad hasta por 8 hrs y reduce la producción de sebo y oleosidad después de 4 semanas de uso continuo. 90% piel visiblemente más hidratada después de solo 1 hora uniformizando la textura de la piel.",
+  "precio": 234,
+  "img": "https://m.media-amazon.com/images/I/418040z47DL._UF1000,1000_QL80_.jpg",
+  "for":"normal con nada",
+  "cat":"CREMA HIDRATANTE"
+},
+{
+  "nombre": "NIVEA Gel Facial Refrescante Cuidado Facial",
+  "descripcion": "El gel facial hidratante está enriquecido con Ácido Hialurónico que aporta elasticidad a la piel, ayudándo a mantenerla hidratada por más tiempo luciendo más luminosa y radiante. Su textura ligera en gel no obstruirá los poros de tu piel dejándola respirar.",
+  "precio": 117,
+  "img": "https://m.media-amazon.com/images/I/71b+V4KzxvL.jpg",
+  "for":"normal con nada",
+  "cat":"CREMA HIDRATANTE"
+},
+{
+  "nombre": "L'Oréal Paris Gel Crema facial Revitalift Ácido Hialurónico Anti-Brillo",
+  "descripcion": "El gel facial hidratante está enriquecido con Ácido Hialurónico que aporta elasticidad a la piel, ayudándo a mantenerla hidratada por más tiempo luciendo más luminosa y radiante. Su textura ligera en gel no obstruirá los poros de tu piel dejándola respirar.",
+  "precio": 158,
+  "img": "https://m.media-amazon.com/images/I/61b+5UD5XNL.jpg",
+  "for":"normal con nada",
+  "cat":"CREMA HIDRATANTE"
+},
+{
+  "nombre": "L'Oréal Paris, Protector Solar Diario FPS50+ UV Defender Fluido Invisible",
+  "descripcion": "te brinda la protección FPS 50+ más invisible con la más alta resistencia para prevenir los signos de la edad. Su textura es ideal siendo 11 veces más ligera que un cuidado clásico FPS 50+. Además, reduce 7 años de manchas solares en 3 meses.",
+  "precio": 144,
+  "img": "https://m.media-amazon.com/images/I/51+xjngzMzL._UF1000,1000_QL80_.jpg",
+  "cat":"PROTECTORES SOLARES",
+  "for":"normal"
+},
+{
+  "nombre": "UV Defender Cuidado Diario Anti-Fotoenvejecimiento",
+  "descripcion": "Con una exclusiva tecnología combinando muy alta protección FPS 50+ y ácido hialurónico puro para defender tu piel de la exposición diaria a los rayos UVB y UVA y del envejecimiento prematuro: líneas de expresión, arrugas, manchas*. *Debidas al sol.",
+  "precio": 152,
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSaM0LG8ae_cdvN1KL9fUx8gu8VMcheJYXyg&s",
+  "cat":"PROTECTORES SOLARES",
+  "for":"normal"
+},
+{
+  "nombre": "Neutrogena Sun fresh Protector Solar Facial sin color",
+  "descripcion": "Ayuda a prevenir el daño solar y a controlar la oleosidad por 12 horas. Con Protección de amplio espectro superior contra rayos UVB, UVA profundos, luz azul y luz visible gracias a la nueva y exclusiva tecnología Helioplex XP.",
+  "precio": 389,
+  "img": "https://m.media-amazon.com/images/I/61Mxn6WUIrL.jpg",
+  "cat":"PROTECTORES SOLARES",
+  "for":"normal"
+},
+{
+  "nombre": "Garnier Super UV Protector Solar Facial Toque Seco",
+  "descripcion": "Contiene Vitamina C.",
+  "precio": 114,
+  "img": "https://m.media-amazon.com/images/I/41jTDoTRRnL.jpg",
+  "cat":"PROTECTORES SOLARES",
+  "for":"normal"
+},
+{
+  "nombre": "ISDIN Fotoprotector Fusion Water Magic ",
+  "descripcion": "Formula de fase acuosa muy hidratante y de absorción inmediata que garantiza alta protección frente a la radiación UV para disfrutar del sol durante las actividades al aire libre.",
+  "precio": 389,
+  "img": "https://m.media-amazon.com/images/I/51lFIeZfCtL.jpg",
+  "cat":"PROTECTORES SOLARES",
+  "for":"normal"
+},
+{
+  "nombre": "La Roche-Posay Effaclar Gel.",
+  "descripcion": "Gel de limpieza que purifica la piel a profundidad, elimina impurezas y ayuda a combatir el exceso de grasa dejando la piel limpia y fresca; ideal para pieles grasas y sensibles. Gel limpiador purificante. Ayuda a eliminar las impurezas y el exceso de sebo y a la vez deja la piel limpia y fresca. Producto de una gran calidad. ",
+  "precio": 368,
+  "img": "https://www.laroche-posay.com.mx/-/media/project/loreal/brand-sites/lrp/america/latam/products/effaclar/effaclar-cleansing-foaming-gel/la-roche-posay-productpage-acne-effaclar-cleansing-foaming-gel-400ml-3337872411991-zoom1-front.png",
+  "for":"piel sensible con acne",
+  "cat":"JABONES FACIALES"
+},
+{
+  "nombre": "Active Skin Terramar Leche Limpiadora.",
+  "descripcion": "Hidrata y nutre, hecho con compuestos vegetales.Es un producto hipoalergénico y libre de alcohol.",
+  "precio": 243,
+  "img": "https://m.media-amazon.com/images/I/510efmkgaKL._UF1000,1000_QL80_.jpg",
+  "for":"piel sensible con acne",
+  "cat":"JABONES FACIALES"
+},
+{
+  "nombre": "Jabón Facial En Barra Neutrogena Antiacné",
+  "descripcion": "Previene futuros brotes y rompe el ciclo de formación de barros y espinillas. Su tecnología MICROCLEAR penetra hasta lo más profundo del poro con una reducción visible en sólo una semana. El jabón facial en barra Neutrogena Antiacné te brinda una limpieza pura y suave para que luzcas una piel más saludable.",
+  "precio": 126,
+  "img": "https://m.media-amazon.com/images/I/51pbdopCxoL.jpg",
+  "for":"piel sensible con acne",
+  "cat":"JABONES FACIALES"
+},
+{
+  "nombre": "BIODERMA, Crema Facial Hidratante, Sensibio Defensive",
+  "descripcion": "Fortalece la barrera cutánea y promover la autodefensa de la piel sensible. Su fórmula avanzada calma la inflamación, alivia la tirantez y reduce la comezón, mientras proporciona una acción antioxidante que protege la piel por 12 horas.",
+  "precio": 419,
+  "img": "https://m.media-amazon.com/images/I/51Sx-nMUWFL._UF1000,1000_QL80_.jpg",
+  "for":"piel sensible con acne",
+  "cat":"CREMA HIDRATANTE"
+},
+{
+  "nombre": "Cetaphil Hidratante Facial Diario",
+  "descripcion": "Mantiene tu rostro hidratado, cuenta con una foto protección contra diversos rayos y un FPS 50.",
+  "precio": 285,
+  "img": "https://m.media-amazon.com/images/I/51veKj2XdfL._UF1000,1000_QL80_.jpg",
+  "for":"piel sensible con acne",
+  "cat":"CREMA HIDRATANTE"
+},
+{
+  "nombre": "BIODERMA, Tratamiento Facial, Sensibio AR+",
+  "descripcion": "Diseñado para piel sensible con enrojecimiento intenso o permanente. Su fórmula avanzada hidrata profundamente, fortalece la barrera cutánea y calma la piel de forma inmediata.",
+  "precio": 469,
+  "img": "https://m.media-amazon.com/images/I/51c2+cHpdkL._UF1000,1000_QL80_.jpg",
+  "for":"piel sensible con acne",
+  "cat":"CREMA HIDRATANTE"
+},
+{
+  "nombre": "CETAPHIL Loción Limpiadora Piel Sensible",
+  "descripcion": "Limpiadora piel sensible, es una loción limpiadora para uso facial que hidrata mientras limpia, suaviza y recupera la humedad de la piel.",
+  "precio": 245,
+  "img": "https://m.media-amazon.com/images/I/51OjarrdanL._UF1000,1000_QL80_.jpg",
+  "cat":"JABONES FACIALES",
+  "for":"piel sensible con nada"
+},
+{
+  "nombre": "BIODERMA, Limpiador Facial, Sensibio Gel Moussant Micelar",
+  "descripcion": "El exclusivo complejo DAF es una combinación de ingredientes activos que permite reforzar el umbral de tolerancia de todo tipo de piel sensible.",
+  "precio": 243,
+  "img": "https://m.media-amazon.com/images/I/514hY-g7xnL._UF1000,1000_QL80_.jpg",
+  "cat":"JABONES FACIALES",
+  "for":"piel sensible con nada"
+},
+
+{
+  "nombre": "Avene Leche Desmaquillante Hidratante",
+  "descripcion": "Limpia, hidrata* y proporciona confort a las pieles sensibles secas y muy secas. Reduce las sensaciones de incomodidad para que quitarse el maquillaje se convierta en un momento de placer. ",
+  "precio": 405,
+  "img": "https://m.media-amazon.com/images/I/51veKj2XdfL._UF1000,1000_QL80_.jpg",
+  "cat":"JABONES FACIALES",
+  "for":"piel sensible con nada"
+},
+{
+  "nombre": "CETAPHIL Loción Facial Hidratante de Día con Ácido Hialurónico ",
+  "descripcion": "Loción para cara y cuello de uso matutino para todo tipo de piel, Piel sensible o seca que mantienen la hidratación de la piel haciendo uso del Ácido Hialurónico.",
+  "precio": 433,
+  "img": "https://m.media-amazon.com/images/I/615WcyJ7b4L.jpg",
+   "cat":"CREMA HIDRATANTE",
+  "for":"piel sensible con nada"
+},
+{
+  "nombre": "BIODERMA, Crema Facial Hidratante, Sensibio Defensive",
+  "descripcion": "Fortalece la barrera cutánea y promover la autodefensa de la piel sensible. Su fórmula avanzada calma la inflamación, alivia la tirantez y reduce la comezón, mientras proporciona una acción antioxidante que protege la piel por 12 horas.",
+  "precio": 419,
+  "img": "https://m.media-amazon.com/images/I/51Sx-nMUWFL._AC_SX522_.jpg",
+   "cat":"CREMA HIDRATANTE",
+  "for":"piel sensible con nada"
+},
+{
+  "nombre": "Cetaphil Hidratante Facial Diario",
+  "descripcion": "Mantiene tu rostro hidratado, cuenta con una foto protección contra diversos rayos y un FPS 50.",
+  "precio": 285,
+  "img": "https://m.media-amazon.com/images/I/51veKj2XdfL._UF1000,1000_QL80_.jpg",
+  "cat":"CREMA HIDRATANTE",
+  "for":"piel sensible con nada"
+},
+{
+  "nombre": "NIVEA SUN Protector Solar Facial para Piel Sensible ",
+  "descripcion": "Diseñado para piel sensible. Sin perfume. Con FPS 50, su sistema de protección UVA/UVB ayuda a prevenir el daño inducido en la piel y los efectos de la Luz Visible de Alta Energía (HEVL) tales como el envejecimiento prematuro. Fórmula ligera, sin sensación grasosa, de rápida absorción, ideal para uso diario.",
+  "precio": 165,
+  "img": "https://m.media-amazon.com/images/I/61rTvs6BFkL.jpg",
+  "cat":"PROTECTORES SOLARES",
+  "for":"piel sensible"
+},
+{
+  "nombre": "Cetaphil Sun FPS 50+ loción liposomal.",
+  "descripcion": "Fórmula hidratante con acción antioxidante gracias a que contiene Vitamina E y Aloe Vera. Su fórmula Liposomal permite la distribución homogénea de los filtros UV. Hidratación las 24 horas. Es adecuado incluso para las pieles más sensibles.",
+  "precio": 356,
+  "img": "https://m.media-amazon.com/images/I/61O-Z7QTVjL._UF1000,1000_QL80_.jpg",
+  "cat":"PROTECTORES SOLARES",
+  "for":"piel sensible"
+},
+{
+  "nombre": "Cetaphil Sun Oil Control FPS 50+.",
+  "descripcion": "No solo protegen contra diferentes tipos de rayos, sino que también dejan una sensación libre de grasa y brillo con o sin color para matificar tu piel. Recomendada por dermatólogos para piel sensible.",
+  "precio": 223,
+  "img": "https://m.media-amazon.com/images/I/51VTsxTR6vL._UF1000,1000_QL80_.jpg",
+  "cat":"PROTECTORES SOLARES",
+  "for":"piel sensible"
+},
+{
+  "nombre": "ISDIN Fotoprotector Fusion Water Magic.",
+  "descripcion": "Formula de fase acuosa muy hidratante y de absorción inmediata que garantiza alta protección frente a la radiación UV para disfrutar del sol durante las actividades al aire libre.",
+  "precio": 389,
+  "img": "https://m.media-amazon.com/images/I/51lFIeZfCtL.jpg",
+  "cat":"PROTECTORES SOLARES",
+  "for":"piel sensible"
+}
+]
