@@ -4,7 +4,7 @@ fetch('json/products.json')
                 console.log(data);
                 data.forEach(product => {
 
-                    if (product.nombre == `${window.localStorage.getItem('jabon')}` || product.nombre == `${window.localStorage.getItem('gel')}` || (product.nombre == `${window.localStorage.getItem('proteccion')}`) && product.for == `${window.localStorage.getItem('piel')}`) {
+                    if ((product.nombre == `${window.localStorage.getItem('jabon')}`&& product.for == `${window.localStorage.getItem('piel')} con ${window.localStorage.getItem('preocupacion')}`) || (product.nombre == `${window.localStorage.getItem('gel')}` && product.for == `${window.localStorage.getItem('piel')} con ${window.localStorage.getItem('preocupacion')}`) || (product.nombre == `${window.localStorage.getItem('proteccion')}`) && product.for == `${window.localStorage.getItem('piel')}`) {
                     const productElement = document.createElement('div');
                     productElement.classList.add('product');
                     productElement.setAttribute('value',product.nombre);
@@ -21,3 +21,19 @@ fetch('json/products.json')
                      }
 
                 })})
+
+document.addEventListener('DOMContentLoaded', function() {
+      const name = window.localStorage.getItem('name');
+  const edad = window.localStorage.getItem('edad');
+  const piel = window.localStorage.getItem('piel');
+  const preocupacion = window.localStorage.getItem('preocupacion');
+  const tipo = window.localStorage.getItem('tipo');
+   if (!name ||  !edad || !piel ||  !preocupacion || !tipo) {
+    window.location.href = "index.html";
+  }
+});
+
+function realizar(){
+    window.localStorage.clear();
+    window.location.href = "index.html";
+}

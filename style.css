@@ -70,6 +70,9 @@ form{
 
 input{
 
+  padding: 5px;
+  border-radius: 3px;
+
 }
 
 .navbar-block {
@@ -588,6 +591,47 @@ input:focus{
 
 @media (min-width:996px) {
 
+
+  .product{
+    transition: all 0.3s ease-in-out;
+  }
+  .produ-gel{
+    transition: all 0.3s ease-in-out;
+  }
+  .produ-prote{
+    transition: all 0.3s ease-in-out;
+  }
+
+  #productas .contain{
+    padding: 0;
+    margin: 20px;
+  }
+  #products-gel .contain{
+    padding: 0;
+    margin: 20px;
+  }
+  #products-solares .contain{
+    padding: 0;
+    margin: 20px;
+  }
+
+  .product:hover{
+    transform: scale(1.1);
+    transition: all 0.3s ease-in-out;
+  }
+  .produ-gel:hover{
+    transform: scale(1.1);
+    transition: all 0.3s ease-in-out;
+  }
+  .produ-prote:hover{
+    transform: scale(1.1);
+    transition: all 0.3s ease-in-out;
+  }
+
+  #rutinita, .contain{
+    padding: 50px;
+  }
+
   #title{
     font-size: 1.3em;
   }
@@ -716,7 +760,7 @@ input:focus{
     justify-content: start;
   }
 
-  #name, #edad{
+  #name, #edad,span{
     margin-left: 20px;
   }
 

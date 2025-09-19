@@ -38,7 +38,7 @@ function submit() {
   const preocupacion = window.localStorage.getItem('preocupacion');
   const tipo = window.localStorage.getItem('tipo');
   
-  if (edad <= 18 || edad >= 26) {
+  if (edad < 18 || edad > 26) {
     alert("Ingrese una edad dentro del rango de 18 a 26 años.");
     
   }
