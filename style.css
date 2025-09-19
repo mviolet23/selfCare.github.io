@@ -588,6 +588,45 @@ input:focus{
     align-items: start;
     justify-content: start;
   }
+  .title-wrapper {
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            margin-bottom: 30px;
+            position: relative;
+        }
+        
+        #main-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 2rem;
+            font-weight: 700;
+            color: #2c3e50;
+            position: relative;
+            padding: 0 30px;
+            margin: 20px 0;
+            text-align: center;
+            display: inline-block;
+        }
+        
+        #main-title::before,
+        #main-title::after {
+            content: '';
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 80px;
+            height: 4px;
+            background: linear-gradient(90deg, #331e03, #331e03);
+            border-radius: 2px;
+        }
+        
+        #main-title::before {
+            right: 100%;
+        }
+        
+        #main-title::after {
+            left: 100%;
+        }
 
 @media (min-width:996px) {
 
@@ -725,11 +764,13 @@ input:focus{
     justify-content: center;
     width: 100%;
     height: 100%;
+    background-color: #C8EFE7;
   }
   #formulario .contai{
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: white;
     justify-content: center;
     width: 100%;
     height: 100%;
@@ -764,6 +805,13 @@ input:focus{
     margin-left: 20px;
   }
 
+  #cardo:hover,#cardot:hover{
+
+    transform: scale(1.1);
+    transition: all 0.3s ease-in-out;
+
+  }
+
 #herorutin .contain{
 
   background-color: #fff;
@@ -777,6 +825,46 @@ input:focus{
   justify-content: center;
   flex-direction: row;
 }
+
+.title-wrapper {
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            margin-bottom: 30px;
+            position: relative;
+        }
+        
+        #main-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 3rem;
+            font-weight: 700;
+            color: #2c3e50;
+            position: relative;
+            padding: 0 30px;
+            margin: 20px 0;
+            text-align: center;
+            display: inline-block;
+        }
+        
+        #main-title::before,
+        #main-title::after {
+            content: '';
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 80px;
+            height: 4px;
+            background: linear-gradient(90deg, #331e03, #331e03);
+            border-radius: 2px;
+        }
+        
+        #main-title::before {
+            right: 100%;
+        }
+        
+        #main-title::after {
+            left: 100%;
+        }
 
 
 }

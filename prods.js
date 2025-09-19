@@ -3,7 +3,7 @@
             const name = window.localStorage.getItem('name');
             const titleElement = document.getElementById('title');  
             if (name) {
-                titleElement.textContent = `¡Hola, ${name}! Es momento de elegir los productos que más te gusten. 😊`;
+                titleElement.textContent = `Hola, ${name}! Es momento de elegir los productos que más te gusten. 😊`;
             }
         }
         
@@ -17,23 +17,25 @@
 const cart = document.querySelectorAll('.product');
 
 
-let selectedProduct = null;
+let selectedProducta = null;
+let selectedProductb = null;
+let selectedProductc = null;
 cart.forEach(carta => {
 
   carta.addEventListener('click', () => {
   console.log(carta.getAttribute("value"));
   window.localStorage.setItem("jabon",carta.getAttribute("value"));
-  if (selectedProduct) {
-    selectedProduct.classList.remove("cardo-2");
+  if (selectedProducta) {
+    selectedProducta.classList.remove("cardo-2");
   }
  // Si se hace clic en el mismo producto, deseleccionar
- if (selectedProduct === carta) {
-     selectedProduct = null;
+ if (selectedProducta === carta) {
+     selectedProducta = null;
      window.localStorage.removeItem("jabon");
      
  } else {
 
-     selectedProduct = carta;
+     selectedProducta = carta;
      carta.classList.add("cardo-2");
 
      const value = carta.getAttribute("value");
@@ -50,18 +52,18 @@ cartgel.forEach(carta => {
   console.log(carta.getAttribute("value"));
   window.localStorage.setItem("gel",carta.getAttribute("value"));
   carta.classList.add("cardo-2");
-if (selectedProduct) {
-    selectedProduct.classList.remove("cardo-2");
+if (selectedProductb) {
+    selectedProductb.classList.remove("cardo-2");
   }
   
  // Si se hace clic en el mismo producto, deseleccionar
- if (selectedProduct === carta) {
-     selectedProduct = null;
+ if (selectedProductb === carta) {
+     selectedProductb = null;
      window.localStorage.removeItem("gel");
      
  } else {
 
-     selectedProduct = carta;
+     selectedProductb = carta;
      carta.classList.add("cardo-2");
 
      const value = carta.getAttribute("value");
@@ -179,22 +181,21 @@ if (selectedProduct) {
 const cartprot = document.querySelectorAll('.produ-prote');
 cartprot.forEach(carta => {
     
-
   carta.addEventListener('click', () => {
   console.log(carta.getAttribute("value"));
   window.localStorage.setItem("proteccion",carta.getAttribute("value"));
   carta.classList.add("cardo-2");
-if (selectedProduct) {
-    selectedProduct.classList.remove("cardo-2");
+if (selectedProductc) {
+    selectedProductc.classList.remove("cardo-2");
   }
  // Si se hace clic en el mismo producto, deseleccionar
- if (selectedProduct === carta) {
-     selectedProduct = null;
+ if (selectedProductc === carta) {
+     selectedProductc = null;
      window.localStorage.removeItem("proteccion");
      
  } else {
 
-     selectedProduct = carta;
+     selectedProductc = carta;
      carta.classList.add("cardo-2");
 
      const value = carta.getAttribute("value");
